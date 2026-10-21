@@ -1,13 +1,9 @@
-# 鹰旗之下 · 远景战场 v0.9
+# Under the Eagle · Cold Iron v0.10
 
-[点击在线试玩](https://ipoklay.github.io/eagle-standard-demo/)
+[Play online](https://ipoklay.github.io/eagle-standard-demo/)
 
-等距像素军团策略 Demo。所有部队在同一战场作战，自动按步兵前阵、弓兵中阵、投石机后阵列队。营地建筑固定位置，可原地升级；没有调路或移动建筑功能。
+A cold, war-torn isometric legion strategy demo with an English interface. Deep green terrain, steel-grey mud, scorched woodland, fires, blood stains and fallen soldiers. World soldiers, buildings and catapults are 70% of their previous size; controls retain their size.
 
-选择补给 → 建造 → 出征。坚守军令作用于全军。支持暂停、加速和 M 静音。下载 index.html 可离线游玩。
+Choose a card → build → MARCH. Infantry forms the front, archers the middle, catapults the rear. All squads fight on one shared battlefield. Buildings stay fixed. Pause or change speed during battle; M toggles audio.
 
-本仓库仅发布游戏，不含策划文档。音频来源见 AUDIO-CREDITS.txt。
-
-地图更新：树林退到外围并留出林间缺口，中央草原扩大，部队纵向活动范围增加约 66%，编队间距更舒展。
-
-远景更新：镜头横纵范围各扩大 20%，可见背景面积增加 44%；树林进一步外移，UI 大小保持不变。
+Download index.html to play offline. Audio credits: AUDIO-CREDITS.txt. This public repository contains the playable game only.
