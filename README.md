@@ -1,4 +1,4 @@
-# Under the Eagle · Endless Years v0.11
+# Under the Eagle · Legion Doctrines v0.13
 
 [Play online](https://ipoklay.github.io/eagle-standard-demo/)
 
@@ -8,4 +8,13 @@ Choose a card → build → MARCH. Infantry forms the front, archers the middle,
 
 Download index.html to play offline. Audio credits: AUDIO-CREDITS.txt. This public repository contains the playable game only.
 
-Endless years: the year is centered at the top, and three isometric shields behind the rear wall show camp lives. Each year has the same three enemy squads and stats. A failed year costs one life; three failures end the campaign. Supplies repeat, with a usable shield order when other cards are exhausted.
+Endless years: the year is centered at the top, and three isometric shields behind the rear wall show camp lives. Each year has the same three enemy squads and stats. A failed year costs one life; three failures end the campaign. Each year offers three distinct random cards, avoiding the previous year whenever possible. Capped and unusable cards are filtered out.
+
+
+## Legion Doctrines
+
+24 cards, seven troop types, and twelve permanent upgrades. Add Spearmen, Shield Guards, Cavalry and Field Medics to the original army. New camps and upgrades use the same fixed building grid.
+
+Build combinations: Fire Arrows + Pitch Stones; Spearmen + Pin & Pierce; Shields + Field Medicine; Cavalry + Blood & Glory; melee engagement + Crossfire. United Legion rewards a diverse army. Single-battle orders include Testudo, Hold Fast, War Standard and Rapid Volley.
+
+Open BUILD to inspect the army, permanent upgrades, next-battle orders and synergies. Card faces show their effects and duration. The enemy count and every enemy combat stat remain unchanged at every year. Campaign progress is not saved after reloading.
